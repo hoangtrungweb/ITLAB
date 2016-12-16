@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_units_options">
+        <item>@string/pref_units_label_metric</item>
+        <item>@string/pref_units_label_imperial</item>
+    </string-array>
+
+    <string-array name="pref_units_values">
+        <item>@string/pref_units_metric</item>
+        <item>@string/pref_units_imperial</item>
+    </string-array>
+
+    <string-array name="pref_locationVN_options">
+        <item>@string/pref_locationVN_label_hanoi</item>
+        <item>@string/pref_locationVN_label_hochiminh</item>
+        <item>@string/pref_locationVN_label_danang</item>
+        <item>@string/pref_locationVN_label_hue</item>
+        <item>@string/pref_locationVN_label_haiphong</item>
+        <item>@string/pref_locationVN_label_cantho</item>
+
+        <item>@string/pref_locationVN_label_angiang</item>
+        <item>@string/pref_locationVN_label_baria</item>
+        <item>@string/pref_locationVN_label_baccan</item>
+        <item>@string/pref_locationVN_label_bacgiang</item>
+        <item>@string/pref_locationVN_label_baclieu</item>
+        <item>@string/pref_locationVN_label_bacninh</item>
+        <item>@string/pref_locationVN_label_bentre</item>
+        <item>@string/pref_locationVN_label_binhduong</item>
+        <item>@string/pref_locationVN_label_binhdinh</item>
+        <item>@string/pref_locationVN_label_binhphuoc</item>
+        <item>@string/pref_locationVN_label_binhthuan</item>
+        <item>@string/pref_locationVN_label_camau</item>
+        <item>@string/pref_locationVN_label_caobang</item>
+        <item>@string/pref_locationVN_label_daklak</item>
+        <item>@string/pref_locationVN_label_daknong</item>
+        <item>@string/pref_locationVN_label_dongnai</item>
+        <item>@string/pref_locationVN_label_dongthap</item>
+        <item>@string/pref_locationVN_label_dienbien</item>
+        <item>@string/pref_locationVN_label_gialai</item>
+        <item>@string/pref_locationVN_label_hagiang</item>
+        <item>@string/pref_locationVN_label_hanam</item>
+        <item>@string/pref_locationVN_label_hatinh</item>
+        <item>@string/pref_locationVN_label_haiduong</item>
+        <item>@string/pref_locationVN_label_haugiang</item>
+        <item>@string/pref_locationVN_label_hungyen</item>
+        <item>@string/pref_locationVN_label_khanhhoa</item>
+        <item>@string/pref_locationVN_label_kiengiang</item>
+        <item>@string/pref_locationVN_label_kontum</item>
+        <item>@string/pref_locationVN_label_laichau</item>
+        <item>@string/pref_locationVN_label_laocai</item>
+        <item>@string/pref_locationVN_label_langson</item>
+        <item>@string/pref_locationVN_label_lamdong</item>
+        <item>@string/pref_locationVN_label_longan</item>
+        <item>@string/pref_locationVN_label_namdinh</item>
+        <item>@string/pref_locationVN_label_nghean</item>
+        <item>@string/pref_locationVN_label_ninhbinh</item>
+        <item>@string/pref_locationVN_label_ninhthuan</item>
+        <item>@string/pref_locationVN_label_phutho</item>
+        <item>@string/pref_locationVN_label_phuyen</item>
+        <item>@string/pref_locationVN_label_quangbinh</item>
+        <item>@string/pref_locationVN_label_quangnam</item>
+        <item>@string/pref_locationVN_label_quangngai</item>
+        <item>@string/pref_locationVN_label_quangninh</item>
+        <item>@string/pref_locationVN_label_quangtri</item>
+        <item>@string/pref_locationVN_label_soctrang</item>
+        <item>@string/pref_locationVN_label_sonla</item>
+        <item>@string/pref_locationVN_label_tayninh</item>
+        <item>@string/pref_locationVN_label_thaibinh</item>
+        <item>@string/pref_locationVN_label_thainguyen</item>
+        <item>@string/pref_locationVN_label_thanhhoa</item>
+        <item>@string/pref_locationVN_label_tiengiang</item>
+        <item>@string/pref_locationVN_label_travinh</item>
+        <item>@string/pref_locationVN_label_tuyenquang</item>
+        <item>@string/pref_locationVN_label_vinhlong</item>
+        <item>@string/pref_locationVN_label_vinhphuc</item>
+        <item>@string/pref_locationVN_label_yenbai</item>
+    </string-array>
+
+    <string-array name="pref_locationVN_values">
+        <item>@string/pref_locationVN_hanoi</item>
+        <item>@string/pref_locationVN_hochiminh</item>
+        <item>@string/pref_locationVN_danang</item>
+        <item>@string/pref_locationVN_hue</item>
+        <item>@string/pref_locationVN_haiphong</item>
+        <item>@string/pref_locationVN_cantho</item>
+
+        <item>@string/pref_locationVN_angiang</item>
+        <item>@string/pref_locationVN_baria</item>
+        <item>@string/pref_locationVN_baccan</item>
+        <item>@string/pref_locationVN_bacgiang</item>
+        <item>@string/pref_locationVN_baclieu</item>
+        <item>@string/pref_locationVN_bacninh</item>
+        <item>@string/pref_locationVN_bentre</item>
+        <item>@string/pref_locationVN_binhduong</item>
+        <item>@string/pref_locationVN_binhdinh</item>
+        <item>@string/pref_locationVN_binhphuoc</item>
+        <item>@string/pref_locationVN_binhthuan</item>
+        <item>@string/pref_locationVN_camau</item>
+        <item>@string/pref_locationVN_daklak</item>
+        <item>@string/pref_locationVN_daknong</item>
+        <item>@string/pref_locationVN_dongnai</item>
+        <item>@string/pref_locationVN_dongthap</item>
+        <item>@string/pref_locationVN_dienbien</item>
+        <item>@string/pref_locationVN_gialai</item>
+        <item>@string/pref_locationVN_hagiang</item>
+        <item>@string/pref_locationVN_hanam</item>
+        <item>@string/pref_locationVN_hatinh</item>
+        <item>@string/pref_locationVN_haiduong</item>
+        <item>@string/pref_locationVN_hoabinh</item>
+        <item>@string/pref_locationVN_haugiang</item>
+        <item>@string/pref_locationVN_hungyen</item>
+        <item>@string/pref_locationVN_khanhhoa</item>
+        <item>@string/pref_locationVN_kiengiang</item>
+        <item>@string/pref_locationVN_kontum</item>
+        <item>@string/pref_locationVN_laichau</item>
+        <item>@string/pref_locationVN_laocai</item>
+        <item>@string/pref_locationVN_langson</item>
+        <item>@string/pref_locationVN_lamdong</item>
+        <item>@string/pref_locationVN_longan</item>
+        <item>@string/pref_locationVN_namdinh</item>
+        <item>@string/pref_locationVN_nghean</item>
+        <item>@string/pref_locationVN_ninhbinh</item>
+        <item>@string/pref_locationVN_ninhthuan</item>
+        <item>@string/pref_locationVN_phutho</item>
+        <item>@string/pref_locationVN_phuyen</item>
+        <item>@string/pref_locationVN_quangbinh</item>
+        <item>@string/pref_locationVN_quangnam</item>
+        <item>@string/pref_locationVN_quangngai</item>
+        <item>@string/pref_locationVN_quangninh</item>
+        <item>@string/pref_locationVN_quangtri</item>
+        <item>@string/pref_locationVN_soctrang</item>
+        <item>@string/pref_locationVN_sonla</item>
+        <item>@string/pref_locationVN_tayninh</item>
+        <item>@string/pref_locationVN_thaibinh</item>
+        <item>@string/pref_locationVN_thainguyen</item>
+        <item>@string/pref_locationVN_thanhhoa</item>
+        <item>@string/pref_locationVN_tiengiang</item>
+        <item>@string/pref_locationVN_travinh</item>
+        <item>@string/pref_locationVN_tuyenquang</item>
+        <item>@string/pref_locationVN_vinhlong</item>
+        <item>@string/pref_locationVN_vinhphuc</item>
+        <item>@string/pref_locationVN_yenbai</item>
+    </string-array>
+</resources>

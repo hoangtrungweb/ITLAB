@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:state_pressed="true">
+    <layer-list>
+        <!-- Button Shadow -->
+        <item android:top="2dp" android:right="1dp">
+            <layer-list>
+                <item>
+                    <shape android:shape="oval">
+                        <solid android:color="#80000000"/>
+                        <padding
+                            android:bottom="4px"
+                            android:left="4px"
+                            android:right="4px"
+                            android:top="4px"
+                            />
+                    </shape>
+                </item>
+                <item>
+                    <shape android:shape="oval">
+                        <solid android:color="#A6000000"/>
+                        <padding
+                            android:bottom="4px"
+                            android:left="4px"
+                            android:right="4px"
+                            android:top="4px"
+                            />
+                    </shape>
+                </item>
+            </layer-list>
+        </item>
+
+        <!-- Pressed Button color -->
+        <item>
+            <shape android:shape="oval">
+                <solid android:color="#ffb1dc"/>
+            </shape>
+        </item>
+    </layer-list>
+</item>
+
+<item android:state_enabled="true">
+
+    <layer-list>
+        <!-- Button shadow -->
+        <item android:top="2dp" android:right="1dp">
+            <layer-list>
+                <item>
+                    <shape android:shape="oval">
+                        <solid android:color="#80000000"/>
+                        <padding
+                            android:bottom="2px"
+                            android:left="2px"
+                            android:right="2px"
+                            android:top="2px"
+                            />
+                    </shape>
+                </item>
+            </layer-list>
+        </item>
+
+        <!-- Default Button color -->
+        <item>
+            <shape android:shape="oval">
+                <solid android:color="@color/sunshine_blue"/>
+            </shape>
+        </item>
+    </layer-list>
+
+</item>
+
+</selector>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Sunshine</string>
+
+    <string name="title_country_name">Việt Nam</string>
+
+    <string name="title_activity_detail">Chi tiết</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_map">Map Location</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="action_share">Share</string>
+
+    <string name="pref_location_label">Location</string>
+    <string name="pref_location_key" translatable="false">location</string>
+    <string name="pref_location_default" translatable="false">Huế</string>
+
+    <string name="pref_units_label">Đơn vị</string>
+
+    <string name="pref_units_label_metric">\u00B0C</string>
+
+    <string name="pref_units_label_imperial">\u00B0F</string>
+
+    <string name="pref_units_key" translatable="false">units</string>
+
+    <string name="pref_units_metric" translatable="false">metric</string>
+
+    <string name="pref_units_imperial" translatable="false">imperial</string>
+
+    <string name="today">Hôm nay</string>
+    <string name="tomorrow">Ngày mai</string>
+    <string name="format_full_friendly_date"><xliff:g id="day">%1$s</xliff:g>, <xliff:g id="date">%2$s</xliff:g></string>
+    <string name="format_wind_mph">Gió: <xliff:g id="speed">%1$1.0f</xliff:g> mph <xliff:g id="direction">- Hướng: %2$s</xliff:g>
+    </string>
+    <string name="format_wind_kmh">Gió: <xliff:g id="speed">%1$1.0f</xliff:g> km/h <xliff:g id="direction">- Hướng: %2$s</xliff:g>
+    </string>
+    <string name="format_temperature"><xliff:g id="temp">%1.0f</xliff:g>\u00B0</string>
+    <string name="format_pressure">Áp suất: <xliff:g id="pressure">%1.0f</xliff:g> hPa</string>
+    <string name="format_humidity">Độ ẩm: <xliff:g id="humidity">%1.0f</xliff:g> %%</string>
+
+
+    <string name="pref_locationVN_key" translatable="false">locationVN</string>
+
+    <string name="pref_locationVN_hanoi" translatable="false">Hà Nội</string>
+    <string name="pref_locationVN_label_hanoi" translatable="false">Hà Nội</string>
+    <string name="pref_locationVN_hochiminh" translatable="false">TP. Hồ Chí Minh</string>
+    <string name="pref_locationVN_label_hochiminh" translatable="false">TP. Hồ Chí Minh</string>
+    <string name="pref_locationVN_danang" translatable="false">Đà Nẵng</string>
+    <string name="pref_locationVN_label_danang" translatable="false">Đà Nẵng</string>
+    <string name="pref_locationVN_hue" translatable="false">Thừa Thiên Huế</string>
+    <string name="pref_locationVN_label_hue" translatable="false">Thừa Thiên Huế</string>
+    <string name="pref_locationVN_haiphong" translatable="false">Hải Phòng</string>
+    <string name="pref_locationVN_label_haiphong" translatable="false">Hải Phòng</string>
+    <string name="pref_locationVN_cantho" translatable="false">Cần Thơ</string>
+    <string name="pref_locationVN_label_cantho" translatable="false">Cần Thơ</string>
+
+    <string name="pref_locationVN_angiang" translatable="false">An Giang</string>
+    <string name="pref_locationVN_label_angiang" translatable="false">An Giang</string>
+    <string name="pref_locationVN_baria" translatable="false">Bà Rịa</string>
+    <string name="pref_locationVN_label_baria" translatable="false">Bà Rịa</string>
+    <string name="pref_locationVN_baclieu" translatable="false">Bạc Liêu</string>
+    <string name="pref_locationVN_label_baclieu" translatable="false">Bạc Liêu</string>
+    <string name="pref_locationVN_baccan" translatable="false">Bắc Kạn</string>
+    <string name="pref_locationVN_label_baccan" translatable="false">Bắc Kạn</string>
+    <string name="pref_locationVN_bacgiang" translatable="false">Bắc Giang</string>
+    <string name="pref_locationVN_label_bacgiang" translatable="false">Bắc Giang</string>
+    <string name="pref_locationVN_bacninh" translatable="false">Bắc Ninh</string>
+    <string name="pref_locationVN_label_bacninh" translatable="false">Bắc Ninh</string>
+    <string name="pref_locationVN_bentre" translatable="false">Bến Tre</string>
+    <string name="pref_locationVN_label_bentre" translatable="false">Bến Tre</string>
+    <string name="pref_locationVN_binhduong" translatable="false">Bình Dương</string>
+    <string name="pref_locationVN_label_binhduong" translatable="false">Bình Dương</string>
+    <string name="pref_locationVN_binhdinh" translatable="false">Bình Định</string>
+    <string name="pref_locationVN_label_binhdinh" translatable="false">Bình Định</string>
+    <string name="pref_locationVN_binhphuoc" translatable="false">Bình Phước</string>
+    <string name="pref_locationVN_label_binhphuoc" translatable="false">Bình Phước</string>
+    <string name="pref_locationVN_binhthuan" translatable="false">Bình Thuận</string>
+    <string name="pref_locationVN_label_binhthuan" translatable="false">Bình Thuận</string>
+    <string name="pref_locationVN_camau" translatable="false">Cà Mau</string>
+    <string name="pref_locationVN_label_camau" translatable="false">Cà Mau</string>
+    <string name="pref_locationVN_caobang" translatable="false">Cao Bằng</string>
+    <string name="pref_locationVN_label_caobang" translatable="false">Cao Bằng</string>
+    <string name="pref_locationVN_daklak" translatable="false">Đắk Lắk</string>
+    <string name="pref_locationVN_label_daklak" translatable="false">Đắk Lắk</string>
+    <string name="pref_locationVN_daknong" translatable="false">Đắk Nông</string>
+    <string name="pref_locationVN_label_daknong" translatable="false">Đắk Nông</string>
+    <string name="pref_locationVN_dongnai" translatable="false">Đồng Nai</string>
+    <string name="pref_locationVN_label_dongnai" translatable="false">Đồng Nai</string>
+    <string name="pref_locationVN_dongthap" translatable="false">Đồng Tháp</string>
+    <string name="pref_locationVN_label_dongthap" translatable="false">Đồng Tháp</string>
+    <string name="pref_locationVN_dienbien" translatable="false">Điện Biên</string>
+    <string name="pref_locationVN_label_dienbien" translatable="false">Điện Biên</string>
+    <string name="pref_locationVN_gialai" translatable="false">Gia Lai</string>
+    <string name="pref_locationVN_label_gialai" translatable="false">Gia Lai</string>
+    <string name="pref_locationVN_hagiang" translatable="false">Hà Giang</string>
+    <string name="pref_locationVN_label_hagiang" translatable="false">Hà Giang</string>
+    <string name="pref_locationVN_hanam" translatable="false">Hà Nam</string>
+    <string name="pref_locationVN_label_hanam" translatable="false">Hà Nam</string>
+    <string name="pref_locationVN_hatinh" translatable="false">Hà Tĩnh</string>
+    <string name="pref_locationVN_label_hatinh" translatable="false">Hà Tĩnh</string>
+    <string name="pref_locationVN_haiduong" translatable="false">Hải Dương</string>
+    <string name="pref_locationVN_label_haiduong" translatable="false">Hải Dương</string>
+    <string name="pref_locationVN_hoabinh" translatable="false">Hòa Bình</string>
+    <string name="pref_locationVN_label_hoabinh" translatable="false">Hòa Bình</string>
+    <string name="pref_locationVN_haugiang" translatable="false">Hậu Giang</string>
+    <string name="pref_locationVN_label_haugiang" translatable="false">Hậu Giang</string>
+    <string name="pref_locationVN_hungyen" translatable="false">Hưng Yên</string>
+    <string name="pref_locationVN_label_hungyen" translatable="false">Hưng Yên</string>
+    <string name="pref_locationVN_khanhhoa" translatable="false">Khánh Hòa</string>
+    <string name="pref_locationVN_label_khanhhoa" translatable="false">Khánh Hòa</string>
+    <string name="pref_locationVN_kiengiang" translatable="false">Kiên Giang</string>
+    <string name="pref_locationVN_label_kiengiang" translatable="false">Kiên Giang</string>
+    <string name="pref_locationVN_kontum" translatable="false">Kon Tum</string>
+    <string name="pref_locationVN_label_kontum" translatable="false">Kon Tum</string>
+    <string name="pref_locationVN_laichau" translatable="false">Lai Châu</string>
+    <string name="pref_locationVN_label_laichau" translatable="false">Lai Châu</string>
+    <string name="pref_locationVN_laocai" translatable="false">Lào Cai</string>
+    <string name="pref_locationVN_label_laocai" translatable="false">Lào Cai</string>
+    <string name="pref_locationVN_langson" translatable="false">Lạng Sơn</string>
+    <string name="pref_locationVN_label_langson" translatable="false">Lạng Sơn</string>
+    <string name="pref_locationVN_lamdong" translatable="false">Lâm Đồng</string>
+    <string name="pref_locationVN_label_lamdong" translatable="false">Lâm Đồng</string>
+    <string name="pref_locationVN_longan" translatable="false">Long An</string>
+    <string name="pref_locationVN_label_longan" translatable="false">Long An</string>
+    <string name="pref_locationVN_namdinh" translatable="false">Nam Định</string>
+    <string name="pref_locationVN_label_namdinh" translatable="false">Nam Định</string>
+    <string name="pref_locationVN_nghean" translatable="false">Nghệ An</string>
+    <string name="pref_locationVN_label_nghean" translatable="false">Nghệ An</string>
+    <string name="pref_locationVN_ninhbinh" translatable="false">Ninh Bình</string>
+    <string name="pref_locationVN_label_ninhbinh" translatable="false">Ninh Bình</string>
+    <string name="pref_locationVN_ninhthuan" translatable="false">Ninh Thuận</string>
+    <string name="pref_locationVN_label_ninhthuan" translatable="false">Ninh Thuận</string>
+    <string name="pref_locationVN_phutho" translatable="false">Phú Thọ</string>
+    <string name="pref_locationVN_label_phutho" translatable="false">Phú Thọ</string>
+    <string name="pref_locationVN_phuyen" translatable="false">Phú Yên</string>
+    <string name="pref_locationVN_label_phuyen" translatable="false">Phú Yên</string>
+    <string name="pref_locationVN_quangbinh" translatable="false">Quảng Bình</string>
+    <string name="pref_locationVN_label_quangbinh" translatable="false">Quảng Bình</string>
+    <string name="pref_locationVN_quangnam" translatable="false">Quảng Nam</string>
+    <string name="pref_locationVN_label_quangnam" translatable="false">Quảng Nam</string>
+    <string name="pref_locationVN_quangngai" translatable="false">Quảng Ngãi</string>
+    <string name="pref_locationVN_label_quangngai" translatable="false">Quảng Ngãi</string>
+    <string name="pref_locationVN_quangninh" translatable="false">Quảng Ninh</string>
+    <string name="pref_locationVN_label_quangninh" translatable="false">Quảng Ninh</string>
+    <string name="pref_locationVN_quangtri" translatable="false">Quảng Trị</string>
+    <string name="pref_locationVN_label_quangtri" translatable="false">Quảng Trị</string>
+    <string name="pref_locationVN_soctrang" translatable="false">Sóc Trăng</string>
+    <string name="pref_locationVN_label_soctrang" translatable="false">Sóc Trăng</string>
+    <string name="pref_locationVN_sonla" translatable="false">Sơn La</string>
+    <string name="pref_locationVN_label_sonla" translatable="false">Sơn La</string>
+    <string name="pref_locationVN_tayninh" translatable="false">Tây Ninh</string>
+    <string name="pref_locationVN_label_tayninh" translatable="false">Tây Ninh</string>
+    <string name="pref_locationVN_thaibinh" translatable="false">Thái Bình</string>
+    <string name="pref_locationVN_label_thaibinh" translatable="false">Thái Bình</string>
+    <string name="pref_locationVN_thainguyen" translatable="false">Thái Nguyên</string>
+    <string name="pref_locationVN_label_thainguyen" translatable="false">Thái Nguyên</string>
+    <string name="pref_locationVN_thanhhoa" translatable="false">Thanh Hóa</string>
+    <string name="pref_locationVN_label_thanhhoa" translatable="false">Thanh Hóa</string>
+    <string name="pref_locationVN_tiengiang" translatable="false">Tiền Giang</string>
+    <string name="pref_locationVN_label_tiengiang" translatable="false">Tiền Giang</string>
+    <string name="pref_locationVN_travinh" translatable="false">Trà Vinh</string>
+    <string name="pref_locationVN_label_travinh" translatable="false">Trà Vinh</string>
+    <string name="pref_locationVN_tuyenquang" translatable="false">Tuyên Quang</string>
+    <string name="pref_locationVN_label_tuyenquang" translatable="false">Tuyên Quang</string>
+    <string name="pref_locationVN_vinhlong" translatable="false">Vĩnh Long</string>
+    <string name="pref_locationVN_label_vinhlong" translatable="false">Vĩnh Long</string>
+    <string name="pref_locationVN_vinhphuc" translatable="false">Vĩnh Phúc</string>
+    <string name="pref_locationVN_label_vinhphuc" translatable="false">Vĩnh Phúc</string>
+    <string name="pref_locationVN_yenbai" translatable="false">Yên Bái</string>
+    <string name="pref_locationVN_label_yenbai" translatable="false">Yên Bái</string>
+</resources>

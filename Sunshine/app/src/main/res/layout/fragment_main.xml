@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ForecastFragment">
+    <TextView
+        android:id="@+id/location_and_last_update"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:paddingLeft="6dp"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:gravity="center_vertical"
+        android:textColor="@color/grey_700"
+        android:text="Hà Nội - Last update: 16:20:10" />
+    <android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/swipe_refresh_layout"
+        android:layout_below="@+id/location_and_last_update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ListView
+            style="@style/ForecastListStyle"
+            android:id="@+id/listview_forecast"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@null"/>
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+
+</RelativeLayout>
